@@ -1,4 +1,7 @@
+package bankapp.service;
 import java.util.ArrayList;
+
+import bankapp.model.Account;
 
 public class AccountManager {
     private ArrayList<Account> accounts;

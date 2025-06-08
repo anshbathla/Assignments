@@ -1,3 +1,6 @@
+package bankapp.model;
+import bankapp.util.Transaction;
+
 public class Account extends BankAccount implements Transaction {
     private double balance;
 

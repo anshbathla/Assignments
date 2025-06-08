@@ -1,3 +1,4 @@
+package bankapp.model;
 public abstract class BankAccount {
     protected String accountNumber;
     protected String accountHolderName;

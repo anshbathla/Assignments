@@ -1,4 +1,8 @@
+package bankapp;
 import java.util.Scanner;
+
+import bankapp.model.Account;
+import bankapp.service.AccountManager;
 
 public class Main {
     public static void main(String[] args) {
